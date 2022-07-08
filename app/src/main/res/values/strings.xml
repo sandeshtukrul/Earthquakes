@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Earthquakes</string>
+    <string name="no_earthquake">No Earthquakes Found</string>
+    <string name="no_internet">No Internet Connection Found</string>
+</resources>
